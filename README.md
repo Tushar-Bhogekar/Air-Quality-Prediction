@@ -6,11 +6,11 @@ This project aims to analyze air quality data and predict the Air Quality Index 
 
 
 **Dependencies**<br>
-To run this project, you need to have the following dependencies installed:
-pandas
-numpy
-seaborn
-matplotlib
+To run this project, you need to have the following dependencies installed:<br>
+pandas<br>
+numpy<br>
+seaborn<br>
+matplotlib<br>
 scikit-learn
 
 
